@@ -65,10 +65,10 @@ The notebook should be executed using the corresponding archived datasets and th
 
 ## Acknowledgements
 
-This work was carried out as part of the B.Tech. Project (CHP400A) at the Department of Chemical Engineering, Indian Institute of Technology Roorkee, under the guidance of [Supervisor's Name].
+This work was carried out as part of the B.Tech. Project (CHP400A) at the Department of Chemical Engineering, Indian Institute of Technology Roorkee, under the guidance of Dr.Ashish Yadav.
 
 ## Author
 
-[Your Name]  
+Disha Agarwal
 Department of Chemical Engineering  
 Indian Institute of Technology Roorkee
