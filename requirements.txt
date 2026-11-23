@@ -1,0 +1,23 @@
+# Core data analysis
+numpy
+pandas
+scipy
+openpyxl
+
+# Data visualisation
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+xgboost
+
+# Model interpretation
+shap
+
+# Bayesian optimisation
+scikit-optimize
+
+# Notebook environment
+jupyter
+ipykernel
